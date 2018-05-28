@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-add  first line
-
-
 
 
 Some more line [first branch]
@@ -10,7 +6,3 @@ Some more line [first branch]
 
 Some new
 =======
-Master Line
-
-one more line
->>>>>>> commit on master
